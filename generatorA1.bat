@@ -1,1 +1,0 @@
-git archive --format=zip --prefix=WebSite/ 1.0>WebSite_12A1_1.0.zip
