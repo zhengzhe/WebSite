@@ -1,1 +1,1 @@
-git archive --format=zip --prefix=WebSite/ 1.0>WebSite_12A1_1.0.zip
+git archive --format=zip --prefix=WebSite/ 2.0>WebSite_12A1_2.0.zip
